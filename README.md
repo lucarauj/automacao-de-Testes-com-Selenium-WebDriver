@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/automacao-de-Testes-com-Selenium-WebDriver/blob/main/LICENSE)
+
 <h1 align="center"> Automação de Testes com Selenium WebDriver e Java </h1>
 
 <p align="center"><img width="100px" src="https://github.com/lucarauj/assets/blob/main/SeleniumWebDriver.png" /></p>
